@@ -7,6 +7,6 @@ public class Main {
             System.out.println(x + amount + bonus);
         } else {
             System.out.println(x + amount);
-             }
+        }
     }
 }
